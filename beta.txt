@@ -1,0 +1,23 @@
+Celeste Cisternas
+01:43:32
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.0.57  netmask 255.255.255.0  broadcast 192.168.0.255
+        inet6 2800:810:5ea:4f0:bcf8:c6c0:fce8:8733  prefixlen 64  scopeid 0x0<global>
+        inet6 2800:810:5ea:4f0::1001  prefixlen 128  scopeid 0x0<global>
+        inet6 2800:810:5ea:4f0:78ea:ed77:8c92:8baf  prefixlen 64  scopeid 0x0<global>
+        inet6 fe80::678f:2e72:ad84:bba5  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:ba:58:d6  txqueuelen 1000  (Ethernet)
+        RX packets 2509  bytes 754588 (754.5 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1278  bytes 209080 (209.0 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 391  bytes 38493 (38.4 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 391  bytes 38493 (38.4 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
