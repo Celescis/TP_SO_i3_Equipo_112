@@ -5,3 +5,6 @@ Ian Sein
 Tomas D'Angelo
 01:05:01
 10.0.2.15 
+Celeste Cisternas
+192.168.0.57 2800:810:5ea:4f0::1001 2800:810:5ea:4f0:78ea:ed77:8c92:8baf 2800:810:5ea:4f0:bcf8:c6c0:fce8:8733 
+01:28:08
