@@ -1,0 +1,6 @@
+Alfa: Tomas D'Angelo
+Beta: Celeste Cisternas
+Gamma: Ian Sein
+a- Master queda con los contenidos de las otras ramas.
+b- Si, a partir de los commit y los archivos subidos.
+c- 1. git fetch master Sein 2.git checkout Sein.
