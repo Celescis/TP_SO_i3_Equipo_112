@@ -4,3 +4,9 @@ Gamma: Ian Sein
 a- Master queda con los contenidos de las otras ramas.
 b- Si, a partir de los commit y los archivos subidos.
 c- 1. git fetch master Sein 2.git checkout Sein.
+d-No, las ramas no quedan con los datos actualizados
+e-El problema que tuvimos al hacer el merge fue que no especificamos a que rama hacerlo y eso ocasiono un guardado de datos en todas las ramas
+f- 1) echo 'Ian Sein' >> datos.txt & hostname -I >> datos.txt & date +%T >> datos.txt
+2) git add .
+3) git commit -m
+4) git push
