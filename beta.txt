@@ -21,3 +21,25 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         TX packets 391  bytes 38493 (38.4 KB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
+Ian Sein
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.0.24  netmask 255.255.255.0  broadcast 192.168.0.255
+        inet6 fe80::a7a9:baff:8276:c4c6  prefixlen 64  scopeid 0x20<link>
+        inet6 2802:8010:10f:ab00:cce8:5fc8:f908:65c2  prefixlen 64  scopeid 0x0<global>
+        inet6 2802:8010:10f:ab00:ddc3:9fbc:5414:cb2f  prefixlen 64  scopeid 0x0<global>
+        ether 08:00:27:9e:a2:66  txqueuelen 1000  (Ethernet)
+        RX packets 400  bytes 245512 (245.5 KB)
+        RX errors 0  dropped 6  overruns 0  frame 0
+        TX packets 399  bytes 46522 (46.5 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 195  bytes 16936 (16.9 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 195  bytes 16936 (16.9 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+01:59:16
