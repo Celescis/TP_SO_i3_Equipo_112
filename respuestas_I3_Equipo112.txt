@@ -6,7 +6,15 @@ b- Si, a partir de los commit y los archivos subidos.
 c- 1. git fetch master Sein 2.git checkout Sein.
 d-No, las ramas no quedan con los datos actualizados
 e-El problema que tuvimos al hacer el merge fue que no especificamos a que rama hacerlo y eso ocasiono un guardado de datos en todas las ramas
-f- 1) echo 'Ian Sein' >> datos.txt & hostname -I >> datos.txt & date +%T >> datos.txt
+f- 
+1) echo 'Ian Sein' >> datos.txt & hostname -I >> datos.txt & date +%T >> datos.txt
 2) git add .
 3) git commit -m
 4) git push
+g- Los comandos utilizados fueron:
+1. Git fetch 
+2. git checkout Cisternas
+3. echo 'Tomas D'Angelo' >> beta.txt & ifconfig >> beta.txt & date +%T >> beta.txt
+4. git add .
+5. git commit -m 'nombre del commit'
+6. git push. 
